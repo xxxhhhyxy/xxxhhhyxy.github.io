@@ -13,12 +13,12 @@ address:
   country: China
 
 summary: Invited by Dr. Yuyang Wang at Computational Media and Arts (CMA), The Hong Kong University of Science and Technology (Guangzhou)
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'Virtual and augmented reality technology grants new possibilities to the movement tutorial. On the one hand, VR/ AR visualizes the movement instructions in the 3D world, avoiding misperceptions caused by the missing angle and depth information when using traditional 2D screens. With the tracking device in the VR/ AR system, on the other hand, the users receive precise real-time feedback and even correction guidance during training to improve their performance. So far, we have run a series of user studies to propose the design implications for MR-based motion guidance in terms of user perspective, visual encoding, and motion features. And I would like to continue my research on 1) memorability of motion guidance and 2) realistic user scenarios like physiotherapy.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2023-04-04T18:00:00Z'
+date_end: '2023-04-04T19:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
