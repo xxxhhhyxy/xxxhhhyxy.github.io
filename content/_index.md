@@ -253,7 +253,7 @@ sections:
       title: Invited Talks
       filters:
         folders:
-          - talks
+          - event
     design:
       columns: '2'
       view: compact
