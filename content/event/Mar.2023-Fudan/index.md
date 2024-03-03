@@ -1,18 +1,18 @@
 ---
-title: Virtual and Augmented Reality
+title: Limb Motion Guidance in Extended Reality
 
-event: Hugo Blox Builder Conference
+event: Invited by Prof. Dr. Siming Chen
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: Fudan University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: FDU-VIS
+  city: Shanghai
+  region: Shanghai
+  postcode: 
+  country: China
 
-summary:  Examined by Prof. Michael Sedlmair at University of Stuttgart.
+summary: Invited by Prof. Dr. Siming Chen at FDU-VIS lab, Fudan University.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -60,24 +60,9 @@ projects:
   - example
 ---
 
-- **Language**: English
-- **Examiner**: [Prof. Dr. Michael Sedlmair](https://www.vis.uni-stuttgart.de/en/institute/team/Sedlmair-00002/)
-- **Content**: 
-- Architecture of VR/AR systems
-- Hardware and software techniques for VR/AR
-- Geometry and rendering
-- Input devices, navigation, and interaction
-- Sound in VR/AR
-- Immersive Analytics
-- Evaluation of VR/AR systems
-- **Objective**: After the course students understand and can apply different Virtual and Augmented Reality techniques and methods. Students can build basic VR/AR applications using Unity3D.
-- **Student Level**: Master
-- **Offered in the semester**: 
-Summersemester 2021
-Summersemester 2022
-Summersemester 2024
 
-<!-- {{% callout note %}}
+<!-- 
+{{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}}
 

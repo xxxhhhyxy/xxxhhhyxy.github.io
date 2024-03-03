@@ -62,10 +62,7 @@ projects:
 
 - **Language**: English
 - **Examiner**: [Prof. Dr. Michael Sedlmair](https://www.vis.uni-stuttgart.de/en/institute/team/Sedlmair-00002/)
-- **Content**: Practical programming course in various topics of media informatics 
-Description languages for digital media (HTLM, XML, CSS, SVG) Web programming (client- and server-side) 
-Introduction to graphics programming with C# & Unity 
-As a teaching assistance of 
+- **Content**: Practical programming course in various topics of media informatics, which includes but not limited to: description languages for digital media (HTLM, XML, CSS, SVG), web programming (client- and server-side), and introduction to graphics programming with C# & Unity.
 - **Objective**: Students know different concepts for programming digital media systems. They can program software that displays graphical content. 
 - **Student Level**: Bachelor
 - **Offered in the semester**: Wintersemester 2019/20
