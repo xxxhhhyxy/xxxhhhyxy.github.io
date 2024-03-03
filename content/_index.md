@@ -257,6 +257,16 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: collection
+    id: teach
+    content:
+      title: Teaching
+      filters:
+        folders:
+          - teach
+    design:
+      columns: '2'
+      view: compact
   - block: tag_cloud
     content:
       title: My Tags
