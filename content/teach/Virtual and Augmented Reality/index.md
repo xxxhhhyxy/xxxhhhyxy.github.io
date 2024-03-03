@@ -1,5 +1,5 @@
 ---
-title: Virtual and Augmented Reality
+title: TA of Virtual and Augmented Reality
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org

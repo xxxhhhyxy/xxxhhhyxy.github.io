@@ -1,5 +1,5 @@
 ---
-title: Programming for media informatics
+title: TA of Programming for media informatics
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
