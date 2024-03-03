@@ -1,5 +1,5 @@
 ---
-title: Virtual and Augmented Reality
+title: Programming for media informatics
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -62,18 +62,16 @@ projects:
 
 - **Language**: English
 - **Examiner**: [Prof. Dr. Michael Sedlmair](https://www.vis.uni-stuttgart.de/en/institute/team/Sedlmair-00002/)
-- **Content**: Architecture of VR/AR systems
-Hardware and software techniques for VR/AR
-Geometry and rendering
-Input devices, navigation, and interaction
-Sound in VR/AR
-Immersive Analytics
-Evaluation of VR/AR systems
-- **Objective**: After the course students understand and can apply different Virtual and Augmented Reality techniques and methods. Students can build basic VR/AR applications using Unity3D.
-- **Student Level**: Master
-- **Offered in the semester**: Summersemester 2021
-Summersemester 2022
-Summersemester 2024
+- **Content**: Practical programming course in various topics of media informatics 
+Description languages for digital media (HTLM, XML, CSS, SVG) Web programming (client- and server-side) 
+Introduction to graphics programming with C# & Unity 
+As a teaching assistance of 
+- **Objective**: Students know different concepts for programming digital media systems. They can program software that displays graphical content. 
+- **Student Level**: Bachelor
+- **Offered in the semester**: Wintersemester 2019/20
+Wintersemester 2020/21
+Wintersemester 2021/22
+Wintersemester 2023/24
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
