@@ -9,10 +9,13 @@ authors:
 - Xiaobing Zhang
 - Michael Sedlmair
 date: '2023-01-01'
-publishDate: '2024-03-03T00:44:00.818923Z'
+publishDate: '2024-03-02T18:32:09.306961Z'
 publication_types:
 - paper-conference
 publication: '*Proceedings of IEEE Conference on Virtual Reality and 3D User Interfaces
   (VR)*'
 doi: https://doi.org/10.1109/VRW58643.2023.00187
+tags: 
+  - Motion Guidance
 ---
+VR-based motion guidance systems can provide 3D movement instructions and real-time feedback for practicing movement without a live instructor. However, the precise visualization of movement paths or postures may be insufficient to learn a new motor skill, as they might make users too dependent and lead to poor performance when there is no guidance. In this paper, we propose to use enhanced error visualization, asymptotic path, increasing transparency, and haptic constraint to improve the memorability of motion guidance. Our study results indicated that adding an enhanced error feedback visualization helped the users with short-term retention.
