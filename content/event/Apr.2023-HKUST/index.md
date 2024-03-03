@@ -1,5 +1,5 @@
 ---
-title: Limb Motion Guidance in Extended Reality
+title: Limb Motion Guidance in Extended Reality Apr.2023@CMA
 
 event: Invited by Dr. Yuyang Wang
 event_url: https://example.org
