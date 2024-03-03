@@ -1,6 +1,5 @@
 ---
-title: Limb Motion Guidance in Extended Reality Mar.2023@FDU-VIS
-
+title: Limb Motion Guidance in Extended Reality Mar.2023
 event: Invited by Prof. Dr. Siming Chen
 event_url: https://example.org
 
