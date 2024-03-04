@@ -215,7 +215,7 @@ sections:
   #     columns: '2'
   #     view: citation
   - block: portfolio
-    id: projects
+    id: featured
     content:
       title: Publications
       text: |-
