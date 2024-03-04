@@ -49,26 +49,30 @@ featured: false
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+#slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+# projects:
+#   - example
 ---
 
 - **Language**: English
 - **Examiner**: [Prof. Dr. Michael Sedlmair](https://www.vis.uni-stuttgart.de/en/institute/team/Sedlmair-00002/)
-- **Content**: Practical programming course in various topics of media informatics, which includes but not limited to: description languages for digital media (HTLM, XML, CSS, SVG), web programming (client- and server-side), and introduction to graphics programming with C# & Unity.
+- **Content**: Practical programming course in various topics of media informatics, which includes but not limited to: 
+  - Description languages for digital media (HTLM, XML, CSS, SVG)
+  - Web programming (client- and server-side)
+  - Introduction to graphics programming with C# & Unity.
 - **Objective**: Students know different concepts for programming digital media systems. They can program software that displays graphical content. 
 - **Student Level**: Bachelor
-- **Offered in the semester**: Wintersemester 2019/20
-Wintersemester 2020/21
-Wintersemester 2021/22
-Wintersemester 2023/24
+- **Offered in the semester**: 
+  - Wintersemester 2019/20
+  - Wintersemester 2020/21
+  - Wintersemester 2021/22
+  - Wintersemester 2023/24
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.

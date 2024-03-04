@@ -49,33 +49,33 @@ featured: false
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-  - example
+# projects:
+#   - example
 ---
 
 - **Language**: English
 - **Examiner**: [Prof. Dr. Michael Sedlmair](https://www.vis.uni-stuttgart.de/en/institute/team/Sedlmair-00002/)
 - **Content**: 
-- Architecture of VR/AR systems
-- Hardware and software techniques for VR/AR
-- Geometry and rendering
-- Input devices, navigation, and interaction
-- Sound in VR/AR
-- Immersive Analytics
-- Evaluation of VR/AR systems
+  - Architecture of VR/AR systems
+  - Hardware and software techniques for VR/AR
+  - Geometry and rendering
+  - Input devices, navigation, and interaction
+  - Sound in VR/AR
+  - Immersive Analytics
+  - Evaluation of VR/AR systems
 - **Objective**: After the course students understand and can apply different Virtual and Augmented Reality techniques and methods. Students can build basic VR/AR applications using Unity3D.
 - **Student Level**: Master
 - **Offered in the semester**: 
-Summersemester 2021
-Summersemester 2022
-Summersemester 2024
+  - Summersemester 2021
+  - Summersemester 2022
+  - Summersemester 2024
 
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
