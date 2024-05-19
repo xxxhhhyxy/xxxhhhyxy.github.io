@@ -1,9 +1,9 @@
 ---
-title: Oral Presentation on IEEE ISMAR 2020 virtually at VirBELA 
-subtitle: I successfully present my paper on IEEE International Symposium on Mixed and Augmented Reality (ISMAR) virtually at VirBELA
+title: ACM CHI 2024 @ Hawaii, USA
+subtitle: I presented a paper, chaired a session and played a role as Chinese ambassador on ACM CHI 2024
 
 # Summary for listings and search engines
-summary: I successfully present my paper on IEEE International Symposium on Mixed and Augmented Reality (ISMAR) virtually at VirBELA
+summary: I presented a paper, chaired a session and played a role as Chinese ambassador on ACM CHI 2024
 
 # Link this post with a project
 projects: []

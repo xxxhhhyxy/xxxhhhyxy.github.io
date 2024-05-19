@@ -1,9 +1,9 @@
 ---
-title: Oral Presentation on IEEE ISMAR 2020 virtually at VirBELA 
-subtitle: I successfully present my paper on IEEE International Symposium on Mixed and Augmented Reality (ISMAR) virtually at VirBELA
+title: DC Presentation on IEEE VR 2023 at Shanghai
+subtitle: I presented my doctoral consortium on IEEE Conference of Virtual Reality and 3D User Interfaces (VR) at Shanghai, and eventually won the best DC presentation honorable mention.
 
 # Summary for listings and search engines
-summary: I successfully present my paper on IEEE International Symposium on Mixed and Augmented Reality (ISMAR) virtually at VirBELA
+summary: I presented my doctoral consortium on IEEE Conference of Virtual Reality and 3D User Interfaces (VR) at Shanghai, and eventually won the best DC presentation honorable mention.
 
 # Link this post with a project
 projects: []
