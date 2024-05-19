@@ -43,4 +43,3 @@ image:
 On Oct. 14-18 of 2019, I attended IEEE International Symposium on Mixed and Augmented Reality (ISMAR) as a student volunteer at Beijing, China.
 During the conference, I had the honor of interpreting an interview with [Prof. Dieter Schmalstieg](https://www.tugraz.at/institute/icg/research/team-schmalstieg/) for the BAST Channel.
 As my previous institute was one of the organizers, I managed to reunite with my previous colleagues.
-But I also met new smart researcher, [Wenge Xu](https://xuwenge.github.io/) and visited his lab later in Xi’an Jiaotong-Liverpool University.

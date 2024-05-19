@@ -40,5 +40,4 @@ image:
 #   - Demo
 #   - 教程
 ---
-On Nov. 09-13 of 2020, I presented my paper [Perspective Matters: Design Implications for Motion Guidance in Mixed Reality](https://xxxhhhyxy.github.io/publication/yu-2020-perspective/) on IEEE International Symposium on Mixed and Augmented Reality (ISMAR) virtually at VirBELA. 
-This was the first oral presentation for a long paper during my PhD pursuit. Due to the Covid-19 outbreak, the conference that was scheduled to be held in Brazil had to be shifted online to be held in VirBELA. Despite the many challenges, I still think it was a great virtual participation experience. As the premier conference on virtual reality and augmented reality, IEEE ISMAR has pioneered a bold approach to large-scale VR-based conferences.
+On IEEE VR 2023, Shanghai. I presented my poster [Auxiliary Means to Improve Motion Guidance Memorability in Extended Reality](https://xxxhhhyxy.github.io/publication/gebhardt-2023-auxiliary/). I also attended the doctoral consortium presenting and presented [Limb Motion Guidance in Extended Reality], with [Prof. Steven Feiner](https://www.cs.columbia.edu/~feiner/) as my mentor. In the end I won the best doctoral consortium presentation honorable mention.
