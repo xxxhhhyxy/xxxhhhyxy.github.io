@@ -1,23 +1,23 @@
 ---
 title: "On-Body Interactive Visualization Using Extended Reality: Exploration and Application"
-event: Invited by Prof. Dr. Tan Tang
+event: Invited by Prof. Dr. Liang Zhou
 event_url: https://example.org
 
-location: Zhejiang University
+location: Peking University
 address:
   street: Xixi Campus
-  city: Hangzhou
-  region: Zhejiang
+  city: Beijing
+  region: Beijing
   postcode: 
   country: China
 
-summary: Invited by Prof. Dr. Tan Tang at School of Aart and Archaeology of Zhejiang University, China.
+summary: Invited by Prof. Dr. Liang Zhou at National Institute of Health Data Science at Peking University, China.
 abstract: 'This is a quick review of my previous research'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-20T16:00:00Z'
-date_end: '2024-05-20T18:00:00Z'
+date: '2024-06-05T16:00:00Z'
+date_end: '2024-06-05T18:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
