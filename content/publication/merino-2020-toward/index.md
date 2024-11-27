@@ -9,11 +9,10 @@ authors:
 - Michael Sedlmair
 - Daniel Weiskopf
 date: '2020-01-01'
-publishDate: '2024-03-02T18:32:09.325744Z'
+publishDate: '2020-01-01T18:32:09.325744Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the CHI Conference on Human Factors in Computing Systems
-  (CHI)*'
+publication: '*Extended Abstracts of CHI Conference on Human Factors in Computing Systems (CHI EA)*'
 doi: https://doi.org/10.1145/3334480.3383017
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'

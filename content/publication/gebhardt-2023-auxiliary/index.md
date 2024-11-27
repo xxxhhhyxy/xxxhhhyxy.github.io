@@ -12,8 +12,7 @@ date: '2023-01-01'
 publishDate: '2024-03-02T18:32:09.306961Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of IEEE Conference on Virtual Reality and 3D User Interfaces
-  (VR)*'
+publication: '*IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)*'
 doi: https://doi.org/10.1109/VRW58643.2023.00187
 tags: 
   - Motion Guidance

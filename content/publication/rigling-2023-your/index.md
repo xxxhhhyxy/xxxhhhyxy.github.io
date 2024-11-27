@@ -8,8 +8,7 @@ date: '2023-01-01'
 publishDate: '2024-03-02T18:32:09.300729Z'
 publication_types:
 - paper-conference
-publication: '*Proceedings of the CHI Conference on Human Factors in Computing Systems
-  (CHI)*'
+publication: '*Extended Abstracts of CHI Conference on Human Factors in Computing Systems (CHI EA)*'
 doi: https://doi.org/10.1145/3544549.3585912
 tags: 
   - On-Body Visualization
