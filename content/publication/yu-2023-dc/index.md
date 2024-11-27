@@ -5,7 +5,7 @@ authors:
 date: '2023-03-29'
 publishDate: '2023-03-29T18:32:09.292093Z'
 publication_types:
-- conference paper
+- paper-conference
 publication: '*IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Best DC Presentation Honorable Mentioned*'
 doi: https://doi.org/10.1109/VRW58643.2023.00326
 #abstract: Extended reality (XR) technologies are highly suited in assisting individuals in learning motor skills and movements -- referred to as motion guidance. In motion guidance, the \"feedforward\" provides instructional cues of the motions that are to be performed, whereas the \"feedback\" provides cues which help correct mistakes and minimize errors. Designing synergistic feedforward and feedback is vital to providing an effective learning experience, but this interplay between the two has not yet been adequately explored. Based on a survey of the literature, we propose design space for both motion feedforward and corrective feedback in XR, and describe the interaction effects between them. We identify common design approaches of XR-based motion guidance found in our literature corpus, and discuss them through the lens of our design dimensions. We then discuss additional contextual factors and considerations that influence this design, together with future research opportunities for motion guidance in XR.
