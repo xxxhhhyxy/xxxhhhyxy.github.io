@@ -11,7 +11,7 @@ address:
   postcode: 
   country: China
 
-summary: Invited by Prof. Dr. Tan Tang at School of Aart and Archaeology of Zhejiang University, China.
+summary: Invited by Prof. Dr. Tan Tang at School of Art and Archaeology of Zhejiang University, China.
 abstract: 'This is a quick review of my previous research'
 
 # Talk start and end times.
