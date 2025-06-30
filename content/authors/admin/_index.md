@@ -64,7 +64,7 @@ education:
   - area: M.SC. Optical Engineering
     institution: Beijing Institute of Technology
     date_start: 2015-09-01
-    date_end: 2018-3-31
+    date_end: 2018-03-31
     summary: |
       GPA: 3.8/4.0
 
