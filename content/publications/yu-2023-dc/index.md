@@ -24,7 +24,7 @@ publishDate: '2023-03-29T00:00:00Z'
 publication_types: ['short paper & poster']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Computer Graphics and Application*
+publication: In *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops*
 #publication_short: In *ACM CHI*
 
 abstract: Virtual and augmented reality technology grants new possibilities to  the movement tutorial. On the one hand, VR/AR visualize the movement instructions in the 3D world, avoiding misperceptions caused  by the missing angle and depth information when using traditional 2D screens. With the tracking device in the VR/AR system, on the  other hand, the users receive precise real-time feedback and even  correction guidance during training to improve their performance. So far, we have run a series of user studies to propose the design  implications for MR-based motion guidance in terms of user perspective, visual encoding, and motion features. And I would like to  continue my research on (1) memorability of motion guidance and (2)  realistic user scenarios like physiotherapy.
