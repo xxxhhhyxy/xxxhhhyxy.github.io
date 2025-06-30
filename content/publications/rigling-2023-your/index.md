@@ -26,7 +26,7 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['short paper & poster']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Extended Abstracts of Proceedings of the CHI Conference on Human Factors in Computing Systems*
+publication: In *Extended Abstracts of Proceedings of the CHI Conference on Human Factors in Computing Systems (ACM CHI' EA)*
 #publication_short: In *ACM CHI*
 
 abstract: The benefits of augmented reality (AR) have been demonstrated in both medicine and fitness, while its application in areas where these two fields overlap has been barely explored. We argue that AR opens up new opportunities to interact with, understand and share personal health data. To this end, we developed an app prototype that uses a Snapchat-like face filter to visualize personal health data from a fitness tracker in AR. We tested this prototype in two pilot studies and found that AR does have potential in this type of application. We suggest that AR cannot replace the current interfaces of smartwatches and mobile apps, but it can pick up where current technology falls short in creating intrinsic motivation and personal health awareness. We also provide ideas for future work in this direction.

@@ -28,7 +28,7 @@ publishDate: '2018-01-01T00:00:00Z'
 publication_types: ['short paper &  poster']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Symposium on Mixed and Augmented Reality Adjunct*
+publication: In *IEEE International Symposium on Mixed and Augmented Reality Adjunct (IEEE ISMAR-Adjunct)*
 #publication_short: In *ACM CHI*
 
 abstract: We designed a within-subject experiment to compare visual discomfort to preteen users caused by using head-mounted displays (HMD) and tablet computers for an hour. 18 participants younger than 13 years old were recruited to fulfill a series of similar painting tasks under both display conditions. Visual fatigue was measured with visual analog scale before and after experiment and during the break of experiment. The results indicated that HMD had a trend to bring higher visual fatigue than tablet computer during the exposure of 1 hour. Although the symptoms of visual discomfort disappeared after resting, there is need for preteen-specific head-mounted displays.

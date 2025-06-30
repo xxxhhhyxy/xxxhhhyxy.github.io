@@ -30,7 +30,7 @@ publishDate: '2023-03-29T00:00:00Z'
 publication_types: ['short paper & poster']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops*
+publication: In *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW)*
 #publication_short: In *ACM CHI*
 
 abstract: VR-based motion guidance systems can provide 3D movement instructions and real-time feedback for practicing movement without a live instructor. However, the precise visualization of movement paths or postures may be insufficient to learn a new motor skill, as they might make users too dependent and lead to poor performance when there is no guidance. In this paper, we propose to use enhanced error visualization, asymptotic path, increasing transparency, and haptic constraint to improve the memorability of motion guidance. Our study results indicated that adding an enhanced error feedback visualization helped the users with short-term retention.
@@ -52,7 +52,7 @@ featured: true
 url_pdf: './gebhardt-2023-auxiliary.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: './memorability poster.pdf'
+#url_poster: './memorability-poster.pdf'
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'

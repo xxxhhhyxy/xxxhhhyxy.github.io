@@ -28,7 +28,7 @@ publishDate: '2025-03-08T00:00:00Z'
 publication_types: ['short paper & poster']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)*
+publication: In *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW)*
 #publication_short: In *ACM CHI*
 
 abstract: This paper introduces LiftVR, a VR-based training system designed to support back-friendly deadlift practice. The system integrates two feedforward guidance methods:'skeleton,' which provides detailed posture replication, and 'zone,' which offers simplified, symmetrical visualizations to reduce cognitive load. Additionally, post-training feedback visualizations—such as motion replay, joint path analysis, and performance scoring—help users identify and correct movement errors. A user study revealed that the 'zone' method reduced cognitive effort and enabled participants to understand movements more quickly, albeit with slightly lower postural accuracy compared to the 'skeleton' method. Furthermore, post-training feedback was observed to disrupt muscle memory formation during intensive sessions. Nonetheless, participants’ performance across all experimental conditions, regardless of the feedforward method or feedback mode, showed significant improvement compared to their baseline. These findings underscore LiftVR’s potential as an effective and safe training tool for back-friendly lifting practices.
