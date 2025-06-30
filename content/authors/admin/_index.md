@@ -3,7 +3,7 @@
 title: 余兴尧
 
 # Name pronunciation (optional)
-#name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Xingyao Yu
 
 # Full name (for SEO)
 first_name: Xingyao
