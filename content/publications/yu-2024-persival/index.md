@@ -1,41 +1,46 @@
 ---
-title: 'Design Space of Visual Feedforward And Corrective Feedback in XR-Based Motion Guidance Systems'
+title: 'PerSiVal: On-Body AR Visualization of Biomechanical Arm Simulations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Xingyao Yu
-  - Benjamin Lee
-  - Michael Sedlmair
+- Xingyao Yu
+- David Rosin
+- Johannes Kässinger
+- Benjamin Lee
+- Frank Dürr
+- Christian Becker
+- Oliver Röhrle
+- Michael Sedlmair
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-05-11T00:00:00Z'
+date: '2024-11-08T00:00:00Z'
 doi: 'https://doi.org/10.1145/3613904.3642143'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2024-11-08T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of ACM CHI Conference on Human Factors in Computing Systems*
+publication: In *IEEE Computer Graphics and Application*
 #publication_short: In *ACM CHI*
 
-abstract: Extended reality (XR) technologies are highly suited in assisting individuals in learning motor skills and movements -- referred to as motion guidance. In motion guidance, the \"feedforward\" provides instructional cues of the motions that are to be performed, whereas the \"feedback\" provides cues which help correct mistakes and minimize errors. Designing synergistic feedforward and feedback is vital to providing an effective learning experience, but this interplay between the two has not yet been adequately explored. Based on a survey of the literature, we propose design space for both motion feedforward and corrective feedback in XR, and describe the interaction effects between them. We identify common design approaches of XR-based motion guidance found in our literature corpus, and discuss them through the lens of our design dimensions. We then discuss additional contextual factors and considerations that influence this design, together with future research opportunities for motion guidance in XR.
+abstract: In this work, we explore different combinations of techniques for an interactive, on-body visualization in augmented reality (AR) of an upper arm muscle simulation model. In terms of data, we focus on a continuum-mechanical simulation model involving five different muscles of the human upper arm, with physiologically realistic geometry. In terms of use cases, we focus on the immersive illustration, education, and dissemination of such simulation models. We describe the process of developing six on-body visualization prototypes over the period of five years. For each prototype, we employed different types of motion capture, AR display technologies, and visual encoding approaches, and gathered feedback throughout outreach activities. We reflect on the development of the individual prototypes and summarize lessons learned of our exploration process into the design space of situated on-body visualization.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Motion Guidance
+  - On-Body Visualization
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,7 +50,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './yu-2024-design.pdf'
+url_pdf: './yu-2024-persival.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
