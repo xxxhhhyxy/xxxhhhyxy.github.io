@@ -38,6 +38,8 @@ sections:
         I am Xingyao Yu (余兴尧), a Ph.D. student in [Visualization Research Center (VISUS)](https://www.visus.uni-stuttgart.de/), at University of Stuttgart and at Stuttgart Center of Simulation Science (SimTech), supervised by [Prof. Dr. Michael Sedlmair](https://www.vis.uni-stuttgart.de/institut/team/Sedlmair-00002/). I received my Bachelor degree in Applied Physics and Master degree in Optical Engineering from Beijing Institute of Technology. My research interests are in human-computer interaction (HCI) and extended reality (XR, including VR, AR and MR), especially in user experience, motion guidance and on-body visualzation in XR.
     design:
       columns: '1'
+
+
   - block: collection
     id: papers
     content:
@@ -49,26 +51,26 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  # - block: collection
+  #   content:
+  #     title: Recent Publications
+  #     text: ""
+  #     filters:
+  #       folders:
+  #         - publication
+  #       exclude_featured: false
+  #   design:
+  #     view: citation
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   - block: collection
     id: news
     content:
