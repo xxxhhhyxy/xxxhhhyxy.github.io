@@ -35,11 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I am Xingyao Yu (余兴尧), a Ph.D. student in [Visualization Research Center (VISUS)](https://www.visus.uni-stuttgart.de/), at University of Stuttgart and at Stuttgart Center of Simulation Science (SimTech), supervised by [Prof. Dr. Michael Sedlmair](https://www.vis.uni-stuttgart.de/institut/team/Sedlmair-00002/). I received my Bachelor degree in Applied Physics and Master degree in Optical Engineering from Beijing Institute of Technology. My research interests are in human-computer interaction (HCI) and extended reality (XR, including VR, AR and MR), especially in user experience, motion guidance and on-body visualzation in XR.
     design:
       columns: '1'
   - block: collection
