@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 余兴尧
+title: Xingyao Yu
 
 # Name pronunciation (optional)
 #name_pronunciation: Xingyao Yu
@@ -47,9 +47,10 @@ profiles:
 #    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Virtual and Augmented Reality
+  - Human Computer Interaction
+  - User Experience
+  - Visualization of Simulation
 
 education:
   - area: Ph.D. Computer Science
@@ -57,32 +58,32 @@ education:
     date_start: 2019-05-01
     date_end: 2025-03-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Thesis on "On-Body Visualization with Extended Reality: Exploraion and Application". Supervised by [Prof. Michael Sedlmiar](https://www.vis.uni-stuttgart.de/institut/team/Sedlmair-00002/). 
+#    button:
+#      text: 'Read Thesis'
+#      url: 'https://example.com'
   - area: M.SC. Optical Engineering
     institution: Beijing Institute of Technology
     date_start: 2015-09-01
     date_end: 2018-03-31
-    summary: |
-      GPA: 3.8/4.0
+#    summary: |
+#      GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.Sc. Applied Physics
     institution: Beijing Institute of Technology
     date_start: 2011-09-01
     date_end: 2015-06-30
-    summary: |
-      GPA: 3.4/4.0
+#    summary: |
+#      GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      Courses included:
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
