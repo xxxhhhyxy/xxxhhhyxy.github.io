@@ -46,7 +46,7 @@ featured: true
 url_pdf: './yu-2023-dc.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-#url_poster: ''
+url_poster: './DC-1018.pdf'
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
