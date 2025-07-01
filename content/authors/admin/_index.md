@@ -76,7 +76,7 @@ education:
   - area: B.Sc. Applied Physics
     institution: Beijing Institute of Technology
     date_start: 2011-09-01
-    date_end: 2015-06-31
+    date_end: 2015-06-30
 #    summary: |
 #      GPA: 3.4/4.0
       
