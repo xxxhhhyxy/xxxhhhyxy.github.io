@@ -45,11 +45,12 @@ sections:
     id: publications
     content:
       title: Publications
-      page_type: publication
       filters:
         folders:
           - publications
         featured_only: true
+    design:
+      view: citation
 
 
   # - block: collection
