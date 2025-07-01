@@ -45,6 +45,8 @@ sections:
     id: publications
     content:
       title: Publications
+      page_type: publication
+      offset: 1
       filters:
         folders:
           - publications
