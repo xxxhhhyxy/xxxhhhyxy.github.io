@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Researcher in XR and HCI
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
