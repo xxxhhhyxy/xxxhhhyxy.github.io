@@ -85,7 +85,7 @@ sections:
   #     view: article-grid
   #     columns: 1
   - block: collection
-    id: post
+    id: news
     content:
       title: Recent News
       subtitle: ''
