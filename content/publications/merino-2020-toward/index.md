@@ -39,7 +39,7 @@ abstract: We introduce AVAR, a prototypical implementation of an agile situated 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Motion Guidance
+  - Situated Visualization
 
 # Display this page in the Featured widget?
 featured: true
