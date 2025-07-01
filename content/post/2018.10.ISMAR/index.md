@@ -15,5 +15,5 @@ tags:
   - Academic
   - Conference
 ---
-On Oct. 16-20 of 2018, I presented my poster [Effect of Using HMDs for One Hour on Preteens` Visual Fatigue](https://xxxhhhyxy.github.io/publication/yu-2018-effect/) on IEEE International Symposium on Mixed and Augmented Reality (ISMAR) at Munich, Germany.
+On Oct. 16-20 of 2018, I presented my poster [Effect of Using HMDs for One Hour on Preteens` Visual Fatigue]({{< relref "/publication/yu-2018-effect" >}}) on IEEE International Symposium on Mixed and Augmented Reality (ISMAR) at Munich, Germany.
 On my trip there, I visited local places of interest and made acquintance of [Long Qian](https://longqian.me/aboutme/), [Yuan Li](https://yuanli3d.com/) and [Zhutian Chen](https://chenzhutian.org/).
