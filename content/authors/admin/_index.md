@@ -62,7 +62,7 @@ education:
 #    button:
 #      text: 'Read Thesis'
 #      url: 'https://example.com'
-  - area: M.SC. Optical Engineering
+  - area: M.Sc. Optical Engineering
     institution: Beijing Institute of Technology
     date_start: 2015-09-01
     date_end: 2018-03-31
