@@ -13,6 +13,6 @@ authors:
 
 tags:
   - Academic
-  - Conference
+  - Invited Talk
 ---
 I presented a talk entitled "On-Body Interactive Visualization Using Extended Reality: Exploration and Application", invited by Prof. Liang Zhou at National Institute of Health Data Science at Peking University, China.
