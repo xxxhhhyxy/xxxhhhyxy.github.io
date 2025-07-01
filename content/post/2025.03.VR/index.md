@@ -1,6 +1,6 @@
 ---
 title: IEEE VR 2025 @ Saint-Malo, France
-summary: I presented a paper, chaired a session and played a role as Chinese ambassador on ACM CHI 2024
+summary: I presented a workshop paper on IEEE VR 2025
 date: 2025-03-08
 
 # Featured image
