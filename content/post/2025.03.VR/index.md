@@ -15,4 +15,4 @@ tags:
   - Academic
   - Conference
 ---
-I attended IEEE VR on March 8-12, 2025 in Saint-Malo, France. I presented a paper entitled [LiftVR: A VR-Based Training System for Back-Friendly Lifting]({{< relref "/publications/farley-2025-liftvr" >}}) at the TrainingXR workshop. And I also visited Immersia and Immermove labs in the University of Rennes.
+I attended [IEEE VR](https://ieeevr.org/2025/) on March 8-12, 2025 in Saint-Malo, France. I presented a paper entitled [LiftVR: A VR-Based Training System for Back-Friendly Lifting]({{< relref "/publications/farley-2025-liftvr" >}}) at the TrainingXR workshop. And I also visited Immersia and Immermove labs in the University of Rennes.
