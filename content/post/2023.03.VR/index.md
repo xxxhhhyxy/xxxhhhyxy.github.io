@@ -15,6 +15,5 @@ authors:
 tags:
   - Academic
   - Conference
-  - Award
 ---
 I attended IEEE Conference of Virtual Reality and 3D User Interfaces (VR) at Shanghai, where I presented my doctoral consortium talk entitled **Limb Motion Guidance in Extended Reality**. At last my presentation won the best DC presentation honorable mention.
