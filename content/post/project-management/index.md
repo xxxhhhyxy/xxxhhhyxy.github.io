@@ -1,7 +1,7 @@
 ---
 title: ✅ Manage your projects
 summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 202-07-23
+date: 2025-06-23
 authors:
   - admin
 tags:
