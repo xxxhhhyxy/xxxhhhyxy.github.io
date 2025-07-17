@@ -25,7 +25,7 @@ role: Researcher in XR and HCI
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Stuttgart
-    url: https://openai.com/
+    url: https://www.visus.uni-stuttgart.de/en/team/Yu-00006/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
