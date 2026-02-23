@@ -1,39 +1,36 @@
 ---
-title: 'PerSiVal: Deep Neural Networks for Pervasive Simulation of An Activation-Driven Continuum-Mechanical Upper Limb Model'
+title: 'MolecuSense: Using Force-Feedback Gloves for Creating and Interacting with Ball-and-Stick Molecules in VR'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- David Rosin
-- Johannes Kässinger
+- Patrick Gebhardt
 - Xingyao Yu
+- Andreas Köhn
 - Michael Sedlmair
-- Okan Avci
-- Christian Bleiler
-- Oliver Röhrle
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2026-01-10T00:00:00Z'
-doi: 'https://doi.org/10.1007/s11517-026-03519-x'
+date: '2022-10-31T00:00:00Z'
+doi: 'https://doi.org/10.1145/3554944.3554956'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2026-01-10T00:00:00Z'
+publishDate: '2022-10-31T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ['short paper & poster']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Medical & Biological Engineering & Computing*
+publication: In *Proceedings of the 15th International Symposium on Visual Information Communication and Interaction (VINCI)*
 #publication_short: In *ACM CHI*
 
-abstract: This paper introduces a novel densely connected neural network architecture designed for the pervasive visualisation of musculoskeletal system simulations. These simulations are built upon continuum-mechanical frameworks, which effectively integrate the diverse structural and physiological properties of the musculoskeletal system. A significant drawback of continuum-mechanical musculoskeletal models is their substantial computational resource requirement, making them difficult to transfer to/visualise the results on resource-poor systems like augmented reality or mobile devices. Such technologies, however, will be crucial for future advancements in human-machine interaction, surgical support tools, or physiotherapy. We use an activation-driven five-muscle continuum-mechanical upper limb model to obtain the activation-induced deformations of the respective muscles. Exemplified on the m. biceps brachii, we fit a sparse grid surrogate to capture the surface deformation and train a deep learning model that is subsequently used in our real-time visualisation. Based on the activation levels of the five muscles, the result of our trained neural network leads to an average positional error of 0.97±0.16 mm, or 0.57±0.10% for the 2809 mesh nodes of the m. biceps brachii’s surface. With the novel deep neural network model, we achieved evaluation times for the m. biceps brachii’s surface deformation of 9.88 ms on CPU-only architectures and 3.48 ms on architectures with GPU support. This leads to theoretical frame rates of 101 fps and 287 fps, respectively. The combination of surrogates and deep neural networks presented here succeeds as a proof-of-concept for real-time visualisation of a complex musculoskeletal system model, and does not rely on the inherent characteristics of the musculoskeletal system, and, hence, is also applicable to other real-time visualisations of complex meshed models in other applications.
+abstract: We contribute MolecuSense, a virtual version of a physical molecule construction kit, based on visualization in Virtual Reality (VR) and interaction with force-feedback gloves. Targeting at chemistry education, our goal is to make virtual molecule structures more tangible. Results of an initial user study indicate that the VR molecular construction kit was positively received. Compared to a physical construction kit, the VR molecular construction kit is on the same level in terms of natural interaction. Besides, it fosters the typical digital advantages though, such as saving, exporting, and sharing of molecules. Feedback from the study participants has also revealed potential future avenues for tangible molecule visualizations.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -42,21 +39,21 @@ tags:
   - Visualization of Simulation
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './rosin-2026-persival.pdf'
+url_pdf: './gebhardt-2022-molecusense.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_video: 'https://iframe.videodelivery.net/eyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI3NjBiNjcwM2I5YmRhMzRjYTQ4ZDIwODYyYTcwYzYzZCIsImV4cCI6MTc3MTg4ODAxOCwia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.BT5g4rtYy_nDIAY7ft4B9H8pw2FRn5AT9WIv_TdWvCI_kO1VjwjSKZqXfACN45j0AeivSCQ4ju9Y-huuBE_iITuSpzKwEim-wjZtYZY5IhZRT60l5M7-lI0hnAcgPZPRYIPM5ksq21LP6xJI4HrdiSnlFyx84j_dRjZS5Chbs8melXCLFlJWBS_que3_laEtE2C9G103riWCFBfS205T_O9tqaFkEKqACLuhc9A70ClenTsfHfgGyqUr7G_sGbiJYyr7HrF69HREI73KmeyWc0FyMqwdRfSiAf4y7RDc2PIjlskzzzfQ3ddZjjW53Akb8U5KwAT_sB_4iLgyqRpUQg?poster=https%3A%2F%2Fvideodelivery.net%2FeyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI3NjBiNjcwM2I5YmRhMzRjYTQ4ZDIwODYyYTcwYzYzZCIsImV4cCI6MTc3MTg4ODAxOCwia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.BT5g4rtYy_nDIAY7ft4B9H8pw2FRn5AT9WIv_TdWvCI_kO1VjwjSKZqXfACN45j0AeivSCQ4ju9Y-huuBE_iITuSpzKwEim-wjZtYZY5IhZRT60l5M7-lI0hnAcgPZPRYIPM5ksq21LP6xJI4HrdiSnlFyx84j_dRjZS5Chbs8melXCLFlJWBS_que3_laEtE2C9G103riWCFBfS205T_O9tqaFkEKqACLuhc9A70ClenTsfHfgGyqUr7G_sGbiJYyr7HrF69HREI73KmeyWc0FyMqwdRfSiAf4y7RDc2PIjlskzzzfQ3ddZjjW53Akb8U5KwAT_sB_4iLgyqRpUQg%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D10.0s'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
