@@ -52,7 +52,7 @@ url_pdf: './rigling-2023-your.pdf'
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtu.be/2l5ImWh8uJY?si=Gumve_16dmSGF-Dj'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
