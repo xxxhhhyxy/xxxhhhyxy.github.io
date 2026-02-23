@@ -1,29 +1,28 @@
 ---
-title: 'PerSiVal: On-Body AR Visualization of Biomechanical Arm Simulations'
+title: 'PerSiVal: Deep Neural Networks for Pervasive Simulation of An Activation-Driven Continuum-Mechanical Upper Limb Model'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Xingyao Yu
 - David Rosin
 - Johannes Kässinger
-- Benjamin Lee
-- Frank Dürr
-- Christian Becker
-- Oliver Röhrle
+- Xingyao Yu
 - Michael Sedlmair
+- Okan Avci
+- Christian Bleiler
+- Oliver Röhrle
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2024-11-08T00:00:00Z'
-doi: 'https://doi.org/10.1145/3613904.3642143'
+date: '2026-01-10T00:00:00Z'
+doi: 'https://doi.org/10.1007/s11517-026-03519-x'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-11-08T00:00:00Z'
+publishDate: '2026-01-10T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,10 +30,10 @@ publishDate: '2024-11-08T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Computer Graphics and Application (IEEE CG&A)*
+publication: In *Medical & Biological Engineering & Computing*
 #publication_short: In *ACM CHI*
 
-abstract: In this work, we explore different combinations of techniques for an interactive, on-body visualization in augmented reality (AR) of an upper arm muscle simulation model. In terms of data, we focus on a continuum-mechanical simulation model involving five different muscles of the human upper arm, with physiologically realistic geometry. In terms of use cases, we focus on the immersive illustration, education, and dissemination of such simulation models. We describe the process of developing six on-body visualization prototypes over the period of five years. For each prototype, we employed different types of motion capture, AR display technologies, and visual encoding approaches, and gathered feedback throughout outreach activities. We reflect on the development of the individual prototypes and summarize lessons learned of our exploration process into the design space of situated on-body visualization.
+abstract: This paper introduces a novel densely connected neural network architecture designed for the pervasive visualisation of musculoskeletal system simulations. These simulations are built upon continuum-mechanical frameworks, which effectively integrate the diverse structural and physiological properties of the musculoskeletal system. A significant drawback of continuum-mechanical musculoskeletal models is their substantial computational resource requirement, making them difficult to transfer to/visualise the results on resource-poor systems like augmented reality or mobile devices. Such technologies, however, will be crucial for future advancements in human-machine interaction, surgical support tools, or physiotherapy. We use an activation-driven five-muscle continuum-mechanical upper limb model to obtain the activation-induced deformations of the respective muscles. Exemplified on the m. biceps brachii, we fit a sparse grid surrogate to capture the surface deformation and train a deep learning model that is subsequently used in our real-time visualisation. Based on the activation levels of the five muscles, the result of our trained neural network leads to an average positional error of 0.97±0.16 mm, or 0.57±0.10% for the 2809 mesh nodes of the m. biceps brachii’s surface. With the novel deep neural network model, we achieved evaluation times for the m. biceps brachii’s surface deformation of 9.88 ms on CPU-only architectures and 3.48 ms on architectures with GPU support. This leads to theoretical frame rates of 101 fps and 287 fps, respectively. The combination of surrogates and deep neural networks presented here succeeds as a proof-of-concept for real-time visualisation of a complex musculoskeletal system model, and does not rely on the inherent characteristics of the musculoskeletal system, and, hence, is also applicable to other real-time visualisations of complex meshed models in other applications.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -50,14 +49,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: './yu-2024-persival.pdf'
+url_pdf: './rosin-2026-persival.pdf'
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_poster: ''
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtu.be/40Fa2tGx0YY'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
