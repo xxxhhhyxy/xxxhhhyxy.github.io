@@ -39,7 +39,7 @@ abstract: This paper introduces a novel densely connected neural network archite
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Visualization of Simulation
+  - On-Body Visualization
 
 # Display this page in the Featured widget?
 featured: true
