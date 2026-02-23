@@ -56,7 +56,7 @@ url_pdf: './merino-2020-toward.pdf'
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_video: 'https://youtu.be/X7WKAmwmo7M?si=kFGnK3vo2k7cWmk8'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
