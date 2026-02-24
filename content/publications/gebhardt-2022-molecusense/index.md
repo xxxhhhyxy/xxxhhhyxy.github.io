@@ -27,10 +27,10 @@ publishDate: '2022-10-31T00:00:00Z'
 publication_types: ['short paper & poster']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VRW)*
+publication: In *Proceedings of the International Symposium on Visual Information Communication and Interaction (VINCI)*
 #publication_short: In *ACM CHI*
 
-abstract: VR-based motion guidance systems can provide 3D movement instructions and real-time feedback for practicing movement without a live instructor. However, the precise visualization of movement paths or postures may be insufficient to learn a new motor skill, as they might make users too dependent and lead to poor performance when there is no guidance. In this paper, we propose to use enhanced error visualization, asymptotic path, increasing transparency, and haptic constraint to improve the memorability of motion guidance. Our study results indicated that adding an enhanced error feedback visualization helped the users with short-term retention.
+abstract: We contribute MolecuSense, a virtual version of a physical molecule construction kit, based on visualization in Virtual Reality (VR) and interaction with force-feedback gloves. Targeting at chemistry education, our goal is to make virtual molecule structures more tangible. Results of an initial user study indicate that the VR molecular construction kit was positively received. Compared to a physical construction kit, the VR molecular construction kit is on the same level in terms of natural interaction. Besides, it fosters the typical digital advantages though, such as saving, exporting, and sharing of molecules. Feedback from the study participants has also revealed potential future avenues for tangible molecule visualizations.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -53,7 +53,7 @@ url_pdf: './gebhardt-2022-molecusense.pdf'
 #url_project: ''
 #url_slides: ''
 #url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://iframe.videodelivery.net/eyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI3NjBiNjcwM2I5YmRhMzRjYTQ4ZDIwODYyYTcwYzYzZCIsImV4cCI6MTc3MTk1ODU0Mywia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.o_kqGCXLS6Q0_vSm1TTjeufZAMQ-NFOvtPak6H8CPhmkD9SqufZ6aD_WMGzIub3MdIE5h_geTqxjYS2S-jukXVp3gzZZn4V3S07wcLJDVDDpDWYtZCKy75FhtpItQgPbvM_UfuChcsE0naldRnKurqSJQJ7Z6_fhNYWeD-hIek3pSNN0tjC4Bf4Y_cLwizeClgexfsZkLXnTRkubxMORZCHpKr8BTenZ9vw3ECD6vGZLamXE1BdLce6yJIUc0_Z4HlyNXLvviXEdGE6hbUO42tgFGJdnbe_jl9bLJC8243RDgyq_gL53vs0HxYzm1LfjWyMdEdHZw_1j1WYQFHdKuA?poster=https%3A%2F%2Fvideodelivery.net%2FeyJraWQiOiI3YjgzNTg3NDZlNWJmNDM0MjY5YzEwZTYwMDg0ZjViYiIsImFsZyI6IlJTMjU2In0.eyJzdWIiOiI3NjBiNjcwM2I5YmRhMzRjYTQ4ZDIwODYyYTcwYzYzZCIsImV4cCI6MTc3MTk1ODU0Mywia2lkIjoiN2I4MzU4NzQ2ZTViZjQzNDI2OWMxMGU2MDA4NGY1YmIifQ.o_kqGCXLS6Q0_vSm1TTjeufZAMQ-NFOvtPak6H8CPhmkD9SqufZ6aD_WMGzIub3MdIE5h_geTqxjYS2S-jukXVp3gzZZn4V3S07wcLJDVDDpDWYtZCKy75FhtpItQgPbvM_UfuChcsE0naldRnKurqSJQJ7Z6_fhNYWeD-hIek3pSNN0tjC4Bf4Y_cLwizeClgexfsZkLXnTRkubxMORZCHpKr8BTenZ9vw3ECD6vGZLamXE1BdLce6yJIUc0_Z4HlyNXLvviXEdGE6hbUO42tgFGJdnbe_jl9bLJC8243RDgyq_gL53vs0HxYzm1LfjWyMdEdHZw_1j1WYQFHdKuA%2Fthumbnails%2Fthumbnail.jpg%3Ftime%3D10.0s'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
